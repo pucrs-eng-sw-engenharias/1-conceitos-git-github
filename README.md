@@ -5,6 +5,7 @@ Hoje vamos fazer um estudo dirigido, praticando algumas operações do Git. Para
 
 
 ## Passos
+#### As passos a seguir devem ser executados em dupla, em uma única máquina.
 1. Clone este repositório em uma pasta do seu computar. Neste momento, será criado um projeto com um repositório do Git (pasta .git).
    * Dica: git clone
 1. Verifique seu user name e seu email.
