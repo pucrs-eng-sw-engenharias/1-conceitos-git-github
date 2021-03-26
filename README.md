@@ -18,7 +18,7 @@ Hoje vamos fazer um estudo dirigido, praticando algumas operações do Git. Para
 1. Atualize este repositório no Github, enviando seu projeto para o repositório remoto.
    * Dica: git push
 1. Crie um programa em C/C++ que imprima "Hello, World". Quando pronto, faça novo commit.
-####A partir daqui, cada membro do grupo deve executar os passos na sua máquina.
+#### A partir daqui, cada membro do grupo deve executar os passos na sua máquina.
 1. Crie uma nova branch, para uma nova linha de desenvolvimento. Chame-a de "dev-req1-SeuNome"
     * Dica: git checkout -b
 1. Compartilhe o repositório (todas as branches) no seu repositório remoto. 
